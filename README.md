@@ -1,59 +1,44 @@
-# ⚡ Nalendra (Lele)
+# Hellow there, I'm Nalendra! 👋 
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Grade-12_Student-blue?style=for-the-badge&logo=gitbook&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intern-PT._Zegen_Solusi_Mandiri-green?style=for-the-badge&logo=workplace&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Mobile_%26_AI-red?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
+### About Gwe
+I'm a **Grade 12 Software Engineering student** currently honing my skills as a **Mobile Developer Intern**. I have a deep passion for mobile development, AI engineering, Linux customization, and 3D printing.
 
-Grade 12 Software Engineering (RPL) student. Currently an Intern at **PT. Zegen Solusi Mandiri**, focusing on Mobile Development and AI Engineering.
+* 🏫 **Education:** 12th Grade Student in Software Engineering (RPL)
+* 📍 **Location:** Indonesia
 
 ---
 
-### 📊 GitHub Insights
+### 🚀 Technical Skills
 
-![Nalendra's Stats](https://github-readme-stats.vercel.app/api?username=NalendraX8&show_icons=true&theme=tokyonight)
+**Mobile & Web Development**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%2332333e.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%23ff5d01.svg?style=for-the-badge&logo=astro&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NalendraX8&layout=compact&theme=tokyonight)
+**Backend & Databases**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
----
+**AI & LLM Familiarity**
+![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen-515BD4?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Kimi](https://img.shields.io/badge/Kimi_AI-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-### 🚀 Tech Stack
-
-**Programming & Frameworks**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%2332333e.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Tools & Databases**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Tools & Environment**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Google Antigravity](https://img.shields.io/badge/Antigravity_AI-4285F4?style=for-the-badge&logo=google&logoColor=white) ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7f7fd5?style=for-the-badge&logo=endeavouros&logoColor=white) ![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-27ae60?style=for-the-badge&logo=kde&logoColor=white)
 
 ---
 
-### 🛠️ Projects
-* **Lakuin:** Mobile productivity app built with **Flutter** and **SQLite**.
-* **Garasi Antonelly:** Used car dealer platform built with **Astro JS** and **Supabase**.
-* **BSDLapor:** Public service reporting system for school final project.
+### 🛠️ Featured Projects
+* **Lakuin:** A productivity to-do list app built with Flutter and SQLite.
+* **Garasi Antonelly:** A used car dealer website project built with Astro JS and Supabase.
+* **BSDLapor:** Public complaint reporting application for school final project (UKK).
 
 ---
 
-### 🧪 Interests & Research
-* **AI Engineering:** LLM fine-tuning and AI-powered automation.
-* **3D Printing:** Prototyping custom hardware like modular cooling pads.
-* **System Customization:** Optimizing **EndeavourOS** environments.
-
----
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZ0MTM3bTdtc3MzZ3Z4bDZkOW9mMW1hMmZ0MWJpZ3ZyYmZlZDR0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2v5USe8FZkCy6LbYvr/giphy.gif" width="400">
-  <br>
-  <i>"im feel so sigma"</i> — 😂
-</p>
+### 🧪 Experimental & Interests
+* **AI Engineering:** Exploring LLMs, fine-tuning, and AI-powered apps.
+* **3D Printing:** Working on custom hardware like modular cooling pads.
 
 ---
 
 ### 💻 System Specs
-![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7f7fd5?style=for-the-badge&logo=endeavouros&logoColor=white) ![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-27ae60?style=for-the-badge&logo=kde&logoColor=white)
-
-* **Device:** Lenovo ThinkPad T14 Gen 1
+Running on a **Lenovo ThinkPad T14 Gen 1**:
 * **CPU:** Intel Core i7-10610U
 * **RAM:** 16GB
 * **OS:** EndeavourOS (KDE Plasma)
