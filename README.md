@@ -24,13 +24,6 @@ I'm a **Grade 12 Software Engineering student** currently honing my skills as a 
 
 ---
 
-### 🛠️ Featured Projects
-* **Lakuin:** A productivity to-do list app built with Flutter and SQLite.
-* **Garasi Antonelly:** A used car dealer website project built with Astro JS and Supabase.
-* **BSDLapor:** Public complaint reporting application for school final project (UKK).
-
----
-
 ### 🧪 Experimental & Interests
 * **AI Engineering:** Exploring LLMs, fine-tuning, and AI-powered apps.
 * **3D Printing:** Working on custom hardware like modular cooling pads.
