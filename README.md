@@ -30,9 +30,9 @@
       <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white"/>
       <img src="https://img.shields.io/badge/Qwen-515BD4?style=for-the-badge&logo=alibabacloud&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kimi_AI-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kimi_AI-FF6B6B?style=for-the-badge&logoColor=white"/>
       <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenClaw-4A90E2?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenClaw-4A90E2?style=for-the-badge&logoColor=white"/>
       <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
     </td>
     <td valign="top" width="50%">
