@@ -1,7 +1,7 @@
 # Halo le
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=McLaren&size=25&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Nalendra+Chandra+Mulya;Software+Developer;Mobile+%26+Web+Developer;Building+Digital+Solutions"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Nalendra+Chandra+Mulya;Software+Developer;Mobile+%26+Web+Developer;Building+Digital+Solutions"/>
 </p>
 
 ---
