@@ -1,7 +1,7 @@
 # Halo le
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Nalendra+Chandra+Mulya;Software+Developer;Mobile+%26+Web+Developer;Building+Digital+Solutions"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Nalendra+Chandra+Mulya;Software+Developer;Mobile+%26+Web+Developer;Building+Digital+Solutions"/>
 </p>
 
 ---
@@ -77,6 +77,7 @@ interests:
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama"/>
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic"/>
 <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/Hermes_Agent-FF6B35?style=for-the-badge"/>
 
 </td>
 
@@ -102,7 +103,7 @@ interests:
 
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/NalendraX8?cardType=github&theme=tokyonight"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NalendraX8&layout=compact&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NalendraX8&layout=compact&theme=tokyonight&custom_title=Top+Languages"/>
 
 </p>
 
@@ -173,3 +174,7 @@ interests:
 </p>
 
 ---
+
+<p align="center">
+Made with by Nalendra
+</p>
